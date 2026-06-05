@@ -9,8 +9,8 @@ public class Principal {
 
     
     public static void main(String[] args) {
-        System.out.println("Hola Mundo - soy manuel ");
-        System.out.println("Estoy en kinal mi carnet - 2026272");
+        System.out.println("Hola Mundo - Soy Joaquin Sanchez");
+        System.out.println("Estoy en kinal - 2026117");
     }
     
 }
